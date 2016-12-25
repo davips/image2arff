@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage" />
+            <option value="$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage/project" />
+            <option value="$USER_HOME$/.sbt/0.13/staging/9ca14c93677a68d64e6f/args" />
+            <option value="$USER_HOME$/.sbt/0.13/staging/9ca14c93677a68d64e6f/args/project" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="resolveJavadocs" value="true" />
+        <option name="sbtVersion" value="0.13.13" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+    <option name="maximumHeapSize" value="2768" />
+    <option name="vmParameters" value="-XX:MaxPermSize=2384M" />
+  </component>
+</project>
