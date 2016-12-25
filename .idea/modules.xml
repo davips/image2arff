@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/args-build.iml" filepath="$PROJECT_DIR$/.idea/modules/args-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/image2arff.iml" filepath="$PROJECT_DIR$/.idea/modules/image2arff.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/image2arff-build.iml" filepath="$PROJECT_DIR$/.idea/modules/image2arff-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subimage.iml" filepath="$PROJECT_DIR$/.idea/modules/subimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subimage-build.iml" filepath="$PROJECT_DIR$/.idea/modules/subimage-build.iml" />
     </modules>
   </component>
 </project>
