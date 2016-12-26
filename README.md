@@ -21,4 +21,4 @@ Open the generated ARFF file (e.g. `fig.bmp.arff`) in your favorite data mining 
 
 Example image
 =============
-(https://github.com/davips/image2arff/blob/master/fig.bmp)
+(https://github.com/davips/image2arff/blob/master/fig.gif)
