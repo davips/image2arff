@@ -18,3 +18,7 @@ sbt -J-Xss200m "run file=fig.bmp"
 ```
 
 Open the generated ARFF file (e.g. `fig.bmp.arff`) in your favorite data mining tool.
+
+Example image
+=============
+(https://github.com/davips/image2arff/blob/master/fig.bmp)
