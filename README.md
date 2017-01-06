@@ -3,7 +3,18 @@ Converts an image to an ARFF file.
 
 How to
 ------
+You have two options. You can use the standalone JAR released or clone the repository.
 
+Option 1 - standalone JAR file
+------------------------------
+Download the latest [JAR file](https://github.com/davips/image2arff/releases/).
+Run
+```bash 
+java -Xss200m -jar image2arff-assembly-1.0.jar file=new-iris.gif
+```
+
+Option 2 - clone the repository
+-------------------------------
 Download image2arff.
 ```bash
 git clone https://github.com/davips/image2arff
