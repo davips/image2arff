@@ -1,6 +1,7 @@
 # image2arff
 Converts an image to an ARFF file.
-Please cite accordingly [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.232681.svg)](https://doi.org/10.5281/zenodo.232681).
+Please cite properly if you use it in your research:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.232681.svg)](https://doi.org/10.5281/zenodo.232681).
 
 You have two options to use the program. You can clone the repository (recommended for complete user experience) or use the standalone JAR file.
 
