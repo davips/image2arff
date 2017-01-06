@@ -1,0 +1,69 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="image2arff:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/image2arff_jar</output-path>
+    <root id="archive" name="image2arff.jar">
+      <element id="module-output" name="args" />
+      <element id="module-output" name="args-build" />
+      <element id="module-output" name="image2arff" />
+      <element id="module-output" name="subimage" />
+      <element id="module-output" name="image2arff-build" />
+      <element id="module-output" name="subimage-build" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/lib/jansi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/lib/jline.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/lib/scala-compiler.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/actions-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/api-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/apply-macro-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/cache-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/classfile-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/classpath-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/collections-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/command-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/compile-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/compiler-integration-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/compiler-interface-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/compiler-ivy-integration-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/completion-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/control-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/cross-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/incremental-compiler-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/io-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/ivy-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/ivy-2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/jansi-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/jawn-parser_2.10-0.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/jline-2.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/jsch-0.1.50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/json4s-ast_2.10-3.2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/json4s-core_2.10-3.2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/json4s-support_2.10-0.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/launcher-interface-1.0.0-M1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/logging-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/logic-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/main-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/main-settings-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/paranamer-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/persist-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/process-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/quasiquotes_2.10-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/relation-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/run-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/sbinary_2.10-0.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/sbt-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/scala-pickling_2.10-0.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/scala-reflect-2.10.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/serialization_2.10-0.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/task-system-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/tasks-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/template-resolver-0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/test-agent-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/test-interface-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/testing-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/tracking-0.13.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/xsbti/interface-0.13.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
