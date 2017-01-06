@@ -1,9 +1,6 @@
 # image2arff
 Converts an image to an ARFF file.
-
-How to
-------
-You have two options. You can use the standalone JAR released or clone the repository (recommended for complete user experience).
+You have two options to use the program. You can clone the repository (recommended for complete user experience) or use the standalone JAR file.
 
 Option 1 - standalone JAR file
 ------------------------------
