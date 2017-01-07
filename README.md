@@ -14,6 +14,8 @@ Run
 java -Xss200m -jar image2arff-assembly-1.0.jar file=new-iris.gif
 ```
 
+Open the generated ARFF file (e.g. `new-iris.gif.arff`) in your favorite data mining tool.
+
 Option 2 - clone the repository
 -------------------------------
 Download image2arff.
