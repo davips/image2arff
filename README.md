@@ -23,13 +23,13 @@ git clone https://github.com/davips/image2arff
 
 Install [SBT](http://www.scala-sbt.org/index.html).
 
-Run image2arff for a given image file (e.g. `fig.bmp`).
+Run image2arff for a given image file (e.g. `fig.gif`).
 ```bash
 cd image2arff
-sbt -J-Xss200m "run file=fig.bmp"
+sbt -J-Xss200m "run file=fig.gif"
 ```
 
-Open the generated ARFF file (e.g. `fig.bmp.arff`) in your favorite data mining tool.
+Open the generated ARFF file (e.g. `fig.gif.arff`) in your favorite data mining tool.
 
 Example image
 -------------
