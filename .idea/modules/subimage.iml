@@ -17,9 +17,7 @@
       <sourceFolder url="file://$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage/target/scala-2.12/resource_managed/main" type="java-resource" />
       <sourceFolder url="file://$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage/src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage/target/scala-2.12/resource_managed/test" type="java-test-resource" />
-      <excludeFolder url="file://$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage/target" />
       <excludeFolder url="file://$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage/target/resolution-cache" />
-      <excludeFolder url="file://$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage/target/scala-2.10" />
       <excludeFolder url="file://$USER_HOME$/.sbt/0.13/staging/7854cb4d7c3b4d98dae1/subimage/target/streams" />
     </content>
     <orderEntry type="inheritedJdk" />

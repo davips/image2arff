@@ -1,5 +1,7 @@
 import java.io.FileWriter
 
+import traits.Arg
+
 object Main extends Arg {
   val arq = argstext("file")
   val im = SubImage(arq)
