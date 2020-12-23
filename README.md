@@ -1,5 +1,7 @@
 # image2arff
-Converts an image to an ARFF file.
+
+Converts an image of labeled instances to an ARFF file.
+
 Please cite properly if you use it in your research:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.232681.svg)](https://doi.org/10.5281/zenodo.232681).
 
